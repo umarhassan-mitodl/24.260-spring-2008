@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2008",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy"
+    ],
+    [
+      "Social Science",
+      "Game Theory"
+    ]
+  ],
+  "legacy_uid": "c08e7162-f8b3-3c1e-a205-60f089b4cde5",
+  "instructors": {
+    "content": [
+      "e704f6b4-2899-db3c-b835-728a6cc18e95"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "3ed64d66-8b71-0c54-3e97-8b772735ce1f",
+    "website": "24-260-topics-in-philosophy-david-lewis-spring-2008"
+  },
+  "course_title": "Topics in Philosophy: David Lewis",
+  "hide_download": true,
+  "course_description": "The class will be devoted to the work of David Lewis, one of the most exciting and influential philosophers of the late twentieth century. We will have seminar-style discussions about his work on counterfactuals, time, causation, probability, and decision-theory.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.260",
+  "course_image_thumbnail": {
+    "content": "a6036b40-e82e-b83e-47c4-d3487de7846a",
+    "website": "24-260-topics-in-philosophy-david-lewis-spring-2008"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments",
+    "Presentation Assignments"
+  ],
+  "site_uid": "e074fb33-d447-4ed3-9c70-c4ad3bfd3f2a",
+  "site_short_id": "24.260-spring-2008",
+  "site_url_path": "courses/24-260-topics-in-philosophy-david-lewis-spring-2008",
+  "title": "Course Metadata"
+}
